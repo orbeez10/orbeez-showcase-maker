@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
-import pfp from "@/assets/orbeez-pfp.jpg";
+import pfp from "@/assets/orbeez-pfp.png";
 import { Button } from "@/components/ui/button";
 import { Star, Users, Briefcase, MessageSquare, ExternalLink } from "lucide-react";
 
